@@ -1,0 +1,4 @@
+7490 Decade Counter:This IC divides the input frequency by 10 and provides four BCD (Binary Coded Decimal) outputs. Connect the appropriate pins for clock input, clear, and the BCD outputs.
+555 Timer: Configure the 555 timer in astable mode to generate clock pulses for the 7490 counter. Adjust the resistor and capacitor values to set the desired frequency.
+7447 BCD to 7-Segment Decoder/Driver: This IC takes the BCD outputs from the 7490 counter and converts them into signals to drive a 7-segment display. Connect the appropriate pins for BCD inputs and 7-segment display outputs.
+Seven-Segment Display: Connect the 7-segment display to the outputs of the 7447 decoder. Repeat the process for the second digit.Ensure proper power supply and ground connections for all components. 
