@@ -33,9 +33,6 @@ A simple yet effective 2-digit stopwatch circuit designed using a 555 Timer IC, 
 - Size and Space more
 
 
-## 📷 Circuit Diagram
-(Add circuit diagram image here)
-
 ## 📊 Result
 Successfully implemented a 2-digit stopwatch with precise time measurement and real-time digital display.
 
