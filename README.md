@@ -1,4 +1,4 @@
-# 2-Digit Counter Stopwatch
+![image](https://github.com/user-attachments/assets/340caacb-ea9f-4827-ab9b-cdd2b3e9ce9c)# 2-Digit Counter Stopwatch
 
 A simple yet effective 2-digit stopwatch circuit designed using a 555 Timer IC, IC 7447, IC 7490, and common-anode 7-segment displays.
 
@@ -30,6 +30,8 @@ A simple yet effective 2-digit stopwatch circuit designed using a 555 Timer IC, 
 ## ❌ Limitations
 - Limited to 2 digits
 - Manual reset/stop required
+- Size and Space more
+
 
 ## 📷 Circuit Diagram
 (Add circuit diagram image here)
